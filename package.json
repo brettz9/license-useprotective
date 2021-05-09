@@ -1,0 +1,19 @@
+{
+  "name": "@brettz9/license-useprotective",
+  "version": "0.1.0",
+  "description": "Just a test repo with a use protective license in `package.json`.",
+  "main": "index.js",
+  "license": "CC-BY-NC-4.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettz9/license-useprotective.git"
+  },
+  "author": "Brett Zamir <brettz9@yahoo.com> (http://brett-zamir.me/)",
+  "bugs": {
+    "url": "https://github.com/brettz9/license-useprotective/issues"
+  },
+  "homepage": "https://github.com/brettz9/license-useprotective#readme"
+}
